@@ -11,7 +11,7 @@
                   www.linkedin.com/in/danielaandronic
     <div align="left">
         <h3>Lenguajes y herramientas:</h3>
-        <img src="https://iconos8.es/icon/20909/html-5" 
+        <img src="https://img.icons8.com/color/512/html-5--v1.png" 
         title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
         <img src="" 
         title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
