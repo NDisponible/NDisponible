@@ -6,13 +6,12 @@
         Me gusta dar siempre lo mejor de mi en todo, por más simple o compleja que pueda ser la tarea.
     </h3>
 </div>
-    ---
-    - 📫 Contacto: danaandronic31@gmail.com
+     📫 Contacto: danaandronic31@gmail.com
     </br>
-                    www.linkedin.com/in/danielaandronic
+                  www.linkedin.com/in/danielaandronic
     <div align="left">
         <h3>Lenguajes y herramientas:</h3>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonos8.es%2Ficon%2F20909%2Fhtml-5&psig=AOvVaw25XBkV3IPZPQJm6EUD2lFA&ust=1677969122125000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD0vp_owP0CFQAAAAAdAAAAABAp" 
+        <img src="https://iconos8.es/icon/20909/html-5" 
         title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
         <img src="" 
         title="CSS3" alt="CSS3" width="40" height="40">&nbsp;
