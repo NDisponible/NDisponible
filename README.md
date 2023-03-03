@@ -8,6 +8,7 @@
 </div>
     ---
     - 📫 Contacto: danaandronic31@gmail.com
+    </br>
                     www.linkedin.com/in/danielaandronic
     <div align="left">
         <h3>Lenguajes y herramientas:</h3>
