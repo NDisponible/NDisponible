@@ -24,7 +24,7 @@
         title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40">&nbsp;
         <img src="https://coregenicsoftwares.com/wp-content/uploads/2022/01/pngkit_ajax-logo-png_3783642.png" 
         title="AJAX" alt="AJAX" width="40" height="40">&nbsp;
-        <img src="https://img2.freepng.es/20180806/jpl/kisspng-deploying-node-js-website-development-javascript-w-ecommerce-in-node-js-platform-5b680005ba38c8.7409891115335424057628.jpg" 
+        <img src="https://img2.freepng.es/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" 
         title="NODEJS" alt="NODEJS" width="40" height="40">&nbsp;
         <img src="https://img1.freepng.es/20180828/wy/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a15fbc9422.4421275015354842557724.jpg" 
         title="JQUERY" alt="JQUERY" width="40" height="40">&nbsp;
@@ -38,20 +38,22 @@
         title="XML" alt="XML" width="40" height="40">&nbsp;
         <img src="https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg" 
         title="GITHUB" alt="GITHUB" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://www.viajandosimple.com/wp-content/uploads/2022/04/Canva-Nuevo-Logotipo-650x366-1.jpg" 
         title="CANVA" alt="CANVA" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" 
         title="SQL" alt="SQL" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://logos-marcas.com/wp-content/uploads/2020/09/Linux-Emblema.png" 
         title="LINUX" alt="LINUX" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://icon-library.com/images/mysql-icon/mysql-icon-9.jpg" 
         title="MYSQL" alt="MYSQL" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://es.seaicons.com/wp-content/uploads/2016/03/joomla-icon.png" 
         title="JOOMLA" alt="JOOMLA" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" 
         title="VISUAL STUDIO" alt="VISUAL STUDIO" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png" 
         title="WORDPRESS" alt="WORDPRESS" width="40" height="40">&nbsp;
-        <img src="" 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/800px-Microsoft_Office_Access_%282019-present%29.svg.png" 
+        title="ACCESS" alt="ACCESS" width="40" height="40">&nbsp;
+        <img src="https://www.rpbgeducation.online/wp-content/uploads/2018/06/Word-icon.png" 
         title="WORD" alt="WORD" width="40" height="40">
     </div>
