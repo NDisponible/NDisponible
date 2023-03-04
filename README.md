@@ -7,8 +7,9 @@
     </h3>
 </div>
      📫 Contacto: danaandronic31@gmail.com
+     </br>
                    www.linkedin.com/in/danielaandronic
-    <div align="left">
+    <div align="center">
         <h3>Lenguajes y herramientas:</h3>
         <img src="https://img1.freepng.es/20180320/svw/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85bded183.9685825515215350679127.jpg"  
         title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
