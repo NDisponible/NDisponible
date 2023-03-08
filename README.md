@@ -57,6 +57,4 @@
         title="ACCESS" alt="ACCESS" width="40" height="40">&nbsp;
         <img src="https://www.rpbgeducation.online/wp-content/uploads/2018/06/Word-icon.png" 
         title="WORD" alt="WORD" width="40" height="40">
-    <h3>Lenguajes mas utilizados em mis proyectos:</h3>
     </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDisponible&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
